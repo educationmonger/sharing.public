@@ -1,2 +1,2 @@
 # sharing.public
-Adam Reynolds github repository for sharing data and analysis publically.
+Adam Reynolds' github repository for sharing data and analysis publically.
